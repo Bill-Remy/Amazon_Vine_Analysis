@@ -32,6 +32,7 @@ In order to accomplish Step 2 of the analysis a field called Helpful_Vote_Ratio 
 To seperate Vine-Paid reviews from non-Vine unpaid reviews the "vine" column of the dataframe was filtered by "Y" or "N" into seperate dataframes.  Paid reviews, vine="Y", were seperated into the paid_df data frame.  Unpaind reviews, vine="N", were seperated into the unpaid_df dataframe.  Examples of both are shown below.
 
 **Paid Reviews**
+
 <img src="paid_reviews.png">
 
 
