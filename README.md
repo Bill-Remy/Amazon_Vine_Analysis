@@ -39,6 +39,12 @@ To seperate Vine-Paid reviews from non-Vine unpaid reviews the "vine" column of 
 
 <img src="unpaid_reviews.png">
 
+### Step 4 Calculate Statistics for 5 Star Reviews
 
+| Type of Review | Total Reviews | 5 Star Reviews | % 5 Stars |
+|----------------|---------------|----------------|-----------|
+| Paid -Vine     | 311           | 129            | 41.5 %    |
+| Unpaid         | 57,509        | 30,631         | 53.3%     |
+| Total          | 57,820        | 30,760         | 53.2%     |
 
 
