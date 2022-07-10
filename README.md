@@ -35,6 +35,10 @@ To seperate Vine-Paid reviews from non-Vine unpaid reviews the "vine" column of 
 
 <img src="paid_reviews.png">
 
+**Unpaid Reviews**
+
+<img src="unpaid_reviews.png">
+
 
 
 
