@@ -9,4 +9,8 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.t
 
 ### Analytical Methods
 
-The data was read fromt the Amazon tab delimited file into a dataframe
+The data was read fromt the Amazon tab delimited file into a dataframe - vine_df and also filtering the data for more than 20 total votes.  A sample of the resulting data frame is shown below.
+
+<img src="vine_reviews.png>
+
+
