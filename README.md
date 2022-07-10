@@ -39,7 +39,7 @@ To seperate Vine-Paid reviews from non-Vine unpaid reviews the "vine" column of 
 
 <img src="unpaid_reviews.png">
 
-### Step 4 Calculate Statistics for 5 Star Reviews
+#### Step 4 Calculate Statistics for 5 Star Reviews
 
 | Type of Review | Total Reviews | 5 Star Reviews | % 5 Stars |
 |----------------|---------------|----------------|-----------|
@@ -47,4 +47,8 @@ To seperate Vine-Paid reviews from non-Vine unpaid reviews the "vine" column of 
 | Unpaid         | 57,509        | 30,631         | 53.3%     |
 | Total          | 57,820        | 30,760         | 53.2%     |
 
+### Resulys and Summary of Analysis
 
+There are a couple of clear observations from the dataset analyzed.  First, for this category of products the paid Vine reviews were a very small portion of the total reviews.  Second, the 5-Star reviews provied by the compensated reviewers were materially lower than the unpaid reviewers.  In fact the percentage of Vine 5-Star reviews were 22% less than the unpaid reviewers.  It's clear that in this particular category of products the compensated reviewers did not show a bias of over rating items.  
+
+Another observation is that given the low number of compensated reviewers it would not materially change the percentage of 5-Star reviews even if all of the Vine reviewers gave a 5-Star Review.  If 100% of Vine reviews were 5-Stars, the total 5-Start review percent would only change to 53.5%.
